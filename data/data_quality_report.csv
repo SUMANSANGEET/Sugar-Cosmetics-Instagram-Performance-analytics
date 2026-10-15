@@ -1,0 +1,12 @@
+Check,Result
+Rows,50000
+Columns,14
+Missing values (total),0
+Exact duplicate rows,0
+Negative numeric values,0
+Reach > Impressions (invalid),0
+Zero values - Shares,9
+Zero values - Follows,1
+Date range start,2024-04-19
+Date range end,2025-04-19
+Distinct post types,4

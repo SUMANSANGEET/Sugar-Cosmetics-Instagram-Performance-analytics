@@ -1,0 +1,610 @@
+{
+ "kpi": {
+  "records": 50000,
+  "likes": 147728279,
+  "comments": 18459361,
+  "shares": 8115338,
+  "saves": 8861439,
+  "reach": 987423288,
+  "impressions": 1276045750,
+  "engagement": 183164417,
+  "avg_er": 18.535168300000002,
+  "pooled_er": 18.549736392281645,
+  "reach_rate": 77.381495765336,
+  "profile_visits": 29634798,
+  "follows": 8866710,
+  "pv_rate": 3.0012253468342345,
+  "follow_conv": 29.919927242291312,
+  "like_share": 80.65337221038953,
+  "comment_share": 10.078027873721783,
+  "save_share": 4.837969702379475,
+  "share_share": 4.43063021350921,
+  "per_1000_reach": 185.49736392281645
+ },
+ "post_type": [
+  {
+   "Post Type": "Reel",
+   "n": 12599,
+   "likes": 2959.592,
+   "comments": 369.207,
+   "shares": 162.205,
+   "saves": 178.001,
+   "reach": 19729.683,
+   "er": 18.608,
+   "sd": 7.225,
+   "ci": 0.126
+  },
+  {
+   "Post Type": "Story",
+   "n": 12517,
+   "likes": 2964.235,
+   "comments": 370.651,
+   "shares": 164.62,
+   "saves": 177.578,
+   "reach": 19742.285,
+   "er": 18.598,
+   "sd": 7.192,
+   "ci": 0.126
+  },
+  {
+   "Post Type": "Video",
+   "n": 12485,
+   "likes": 2940.817,
+   "comments": 370.047,
+   "shares": 161.664,
+   "saves": 176.441,
+   "reach": 19659.242,
+   "er": 18.506,
+   "sd": 7.214,
+   "ci": 0.127
+  },
+  {
+   "Post Type": "Image",
+   "n": 12399,
+   "likes": 2953.541,
+   "comments": 366.823,
+   "shares": 160.723,
+   "saves": 176.885,
+   "reach": 19863.634,
+   "er": 18.427,
+   "sd": 7.15,
+   "ci": 0.126
+  }
+ ],
+ "weekday": [
+  {
+   "Day of Week": "Monday",
+   "n": 7094,
+   "likes": 2958.379,
+   "comments": 371.493,
+   "shares": 161.157,
+   "saves": 178.456,
+   "reach": 19810.496,
+   "er": 18.481,
+   "sd": 7.218,
+   "ci": 0.168
+  },
+  {
+   "Day of Week": "Tuesday",
+   "n": 7355,
+   "likes": 2958.205,
+   "comments": 369.065,
+   "shares": 162.513,
+   "saves": 177.418,
+   "reach": 19759.536,
+   "er": 18.574,
+   "sd": 7.22,
+   "ci": 0.165
+  },
+  {
+   "Day of Week": "Wednesday",
+   "n": 7179,
+   "likes": 2973.885,
+   "comments": 372.092,
+   "shares": 164.354,
+   "saves": 176.795,
+   "reach": 19870.576,
+   "er": 18.629,
+   "sd": 7.173,
+   "ci": 0.166
+  },
+  {
+   "Day of Week": "Thursday",
+   "n": 7068,
+   "likes": 2965.071,
+   "comments": 369.136,
+   "shares": 160.871,
+   "saves": 177.382,
+   "reach": 19811.879,
+   "er": 18.477,
+   "sd": 7.163,
+   "ci": 0.167
+  },
+  {
+   "Day of Week": "Friday",
+   "n": 7245,
+   "likes": 2962.556,
+   "comments": 369.927,
+   "shares": 164.589,
+   "saves": 178.539,
+   "reach": 19751.826,
+   "er": 18.568,
+   "sd": 7.162,
+   "ci": 0.165
+  },
+  {
+   "Day of Week": "Saturday",
+   "n": 7031,
+   "likes": 2926.22,
+   "comments": 363.825,
+   "shares": 160.368,
+   "saves": 175.353,
+   "reach": 19499.929,
+   "er": 18.595,
+   "sd": 7.178,
+   "ci": 0.168
+  },
+  {
+   "Day of Week": "Sunday",
+   "n": 7028,
+   "likes": 2936.729,
+   "comments": 368.674,
+   "shares": 162.192,
+   "saves": 176.608,
+   "reach": 19730.939,
+   "er": 18.417,
+   "sd": 7.258,
+   "ci": 0.17
+  }
+ ],
+ "campaign": [
+  {
+   "Campaign Type": "Influencer Collab",
+   "n": 9903,
+   "likes": 2983.492,
+   "comments": 374.858,
+   "shares": 165.174,
+   "saves": 179.572,
+   "reach": 19874.683,
+   "er": 18.595,
+   "sd": 7.245,
+   "ci": 0.143
+  },
+  {
+   "Campaign Type": "Tutorial",
+   "n": 10186,
+   "likes": 2968.835,
+   "comments": 371.484,
+   "shares": 162.741,
+   "saves": 178.476,
+   "reach": 19804.869,
+   "er": 18.583,
+   "sd": 7.243,
+   "ci": 0.141
+  },
+  {
+   "Campaign Type": "Giveaway",
+   "n": 9998,
+   "likes": 2968.232,
+   "comments": 369.988,
+   "shares": 162.861,
+   "saves": 175.623,
+   "reach": 19813.632,
+   "er": 18.565,
+   "sd": 7.142,
+   "ci": 0.14
+  },
+  {
+   "Campaign Type": "Product Launch",
+   "n": 9923,
+   "likes": 2949.193,
+   "comments": 367.958,
+   "shares": 161.491,
+   "saves": 177.719,
+   "reach": 19742.611,
+   "er": 18.493,
+   "sd": 7.171,
+   "ci": 0.141
+  },
+  {
+   "Campaign Type": "Festive Offer",
+   "n": 9990,
+   "likes": 2903.001,
+   "comments": 361.643,
+   "shares": 159.277,
+   "saves": 174.755,
+   "reach": 19506.435,
+   "er": 18.437,
+   "sd": 7.176,
+   "ci": 0.141
+  }
+ ],
+ "source": [
+  {
+   "Engagement Source": "Collab",
+   "n": 12633,
+   "likes": 2959.592,
+   "comments": 371.097,
+   "shares": 163.471,
+   "saves": 177.351,
+   "reach": 19706.533,
+   "er": 18.588,
+   "sd": 7.212,
+   "ci": 0.126
+  },
+  {
+   "Engagement Source": "Influencer",
+   "n": 12501,
+   "likes": 2965.473,
+   "comments": 369.22,
+   "shares": 162.878,
+   "saves": 177.18,
+   "reach": 19699.272,
+   "er": 18.582,
+   "sd": 7.177,
+   "ci": 0.126
+  },
+  {
+   "Engagement Source": "Paid",
+   "n": 12358,
+   "likes": 2933.093,
+   "comments": 368.415,
+   "shares": 160.289,
+   "saves": 176.337,
+   "reach": 19616.582,
+   "er": 18.527,
+   "sd": 7.148,
+   "ci": 0.126
+  },
+  {
+   "Engagement Source": "Organic",
+   "n": 12508,
+   "likes": 2959.803,
+   "comments": 367.989,
+   "shares": 162.553,
+   "saves": 178.035,
+   "reach": 19970.287,
+   "er": 18.443,
+   "sd": 7.244,
+   "ci": 0.127
+  }
+ ],
+ "emotion": [
+  {
+   "Audience Emotion": "Curious",
+   "n": 10027,
+   "likes": 2949.189,
+   "comments": 367.246,
+   "shares": 161.846,
+   "saves": 177.897,
+   "reach": 19596.356,
+   "er": 18.623,
+   "sd": 7.229,
+   "ci": 0.141
+  },
+  {
+   "Audience Emotion": "Confident",
+   "n": 9891,
+   "likes": 2945.208,
+   "comments": 367.661,
+   "shares": 162.466,
+   "saves": 176.296,
+   "reach": 19712.986,
+   "er": 18.572,
+   "sd": 7.223,
+   "ci": 0.142
+  },
+  {
+   "Audience Emotion": "Inspired",
+   "n": 10137,
+   "likes": 2972.648,
+   "comments": 371.864,
+   "shares": 162.315,
+   "saves": 178.36,
+   "reach": 19897.047,
+   "er": 18.509,
+   "sd": 7.162,
+   "ci": 0.139
+  },
+  {
+   "Audience Emotion": "Happy",
+   "n": 9884,
+   "likes": 2935.055,
+   "comments": 366.044,
+   "shares": 161.729,
+   "saves": 175.803,
+   "reach": 19640.314,
+   "er": 18.504,
+   "sd": 7.145,
+   "ci": 0.141
+  },
+  {
+   "Audience Emotion": "Excited",
+   "n": 10061,
+   "likes": 2970.071,
+   "comments": 373.013,
+   "shares": 163.17,
+   "saves": 177.741,
+   "reach": 19891.487,
+   "er": 18.467,
+   "sd": 7.22,
+   "ci": 0.141
+  }
+ ],
+ "hashtag": [
+  {
+   "Hashtag": "#VeganBeauty",
+   "n": 19982,
+   "er": 18.605,
+   "sd": 7.202,
+   "reach": 19781.625,
+   "ci": 0.1
+  },
+  {
+   "Hashtag": "#BoldLooks",
+   "n": 19956,
+   "er": 18.582,
+   "sd": 7.198,
+   "reach": 19855.772,
+   "ci": 0.1
+  },
+  {
+   "Hashtag": "#CrueltyFree",
+   "n": 20197,
+   "er": 18.541,
+   "sd": 7.192,
+   "reach": 19855.597,
+   "ci": 0.099
+  },
+  {
+   "Hashtag": "#SugarCosmetics",
+   "n": 19891,
+   "er": 18.522,
+   "sd": 7.207,
+   "reach": 19735.517,
+   "ci": 0.1
+  },
+  {
+   "Hashtag": "#MakeupGoals",
+   "n": 20018,
+   "er": 18.508,
+   "sd": 7.201,
+   "reach": 19810.06,
+   "ci": 0.1
+  }
+ ],
+ "hashtag_count": [
+  {
+   "Hashtag Count": 1,
+   "n": 16625,
+   "er": 18.438
+  },
+  {
+   "Hashtag Count": 2,
+   "n": 16706,
+   "er": 18.629
+  },
+  {
+   "Hashtag Count": 3,
+   "n": 16669,
+   "er": 18.538
+  }
+ ],
+ "monthly": [
+  {
+   "month": "Apr 2024",
+   "n": 1626,
+   "er": 18.321
+  },
+  {
+   "month": "May 2024",
+   "n": 4250,
+   "er": 18.479
+  },
+  {
+   "month": "Jun 2024",
+   "n": 4232,
+   "er": 18.64
+  },
+  {
+   "month": "Jul 2024",
+   "n": 4121,
+   "er": 18.517
+  },
+  {
+   "month": "Aug 2024",
+   "n": 4242,
+   "er": 18.395
+  },
+  {
+   "month": "Sep 2024",
+   "n": 4160,
+   "er": 18.658
+  },
+  {
+   "month": "Oct 2024",
+   "n": 4225,
+   "er": 18.493
+  },
+  {
+   "month": "Nov 2024",
+   "n": 4075,
+   "er": 18.477
+  },
+  {
+   "month": "Dec 2024",
+   "n": 4296,
+   "er": 18.575
+  },
+  {
+   "month": "Jan 2025",
+   "n": 4244,
+   "er": 18.671
+  },
+  {
+   "month": "Feb 2025",
+   "n": 3930,
+   "er": 18.38
+  },
+  {
+   "month": "Mar 2025",
+   "n": 4139,
+   "er": 18.624
+  },
+  {
+   "month": "Apr 2025",
+   "n": 2460,
+   "er": 18.621
+  }
+ ],
+ "pvalues": {
+  "Post Type": 0.15244212558084402,
+  "Day of Week": 0.5655658252233253,
+  "Campaign Type": 0.47748419149011556,
+  "Engagement Source": 0.3489845389165137,
+  "Audience Emotion": 0.5615172565290569,
+  "Hashtag": 0.6294700320263931
+ },
+ "spreads": {
+  "post_type": 0.9815200705931436,
+  "weekday": 1.1428785539105784,
+  "hashtag": 0.5240086122431052,
+  "campaign": 0.8520313776634021
+ },
+ "gap": {
+  "n": 3117,
+  "pct": 6.234,
+  "reach_q75": 28763.25,
+  "er_q25": 12.31975
+ },
+ "top_likes": [
+  {
+   "Post Label": "#27398 \u00b7 Reel \u00b7 Influencer Collab \u00b7 26 Oct 2024",
+   "Likes": 11392,
+   "Reach": 46789,
+   "Engagement Rate (%)": 31.61
+  },
+  {
+   "Post Label": "#29155 \u00b7 Image \u00b7 Influencer Collab \u00b7 05 May 2024",
+   "Likes": 11343,
+   "Reach": 46049,
+   "Engagement Rate (%)": 31.55
+  },
+  {
+   "Post Label": "#4082 \u00b7 Video \u00b7 Influencer Collab \u00b7 04 Mar 2025",
+   "Likes": 11282,
+   "Reach": 45271,
+   "Engagement Rate (%)": 30.35
+  },
+  {
+   "Post Label": "#34087 \u00b7 Image \u00b7 Giveaway \u00b7 10 Apr 2025",
+   "Likes": 11248,
+   "Reach": 46124,
+   "Engagement Rate (%)": 30.06
+  },
+  {
+   "Post Label": "#16090 \u00b7 Story \u00b7 Giveaway \u00b7 03 Nov 2024",
+   "Likes": 11108,
+   "Reach": 44730,
+   "Engagement Rate (%)": 29.02
+  },
+  {
+   "Post Label": "#16990 \u00b7 Story \u00b7 Festive Offer \u00b7 20 Jun 2024",
+   "Likes": 11083,
+   "Reach": 46177,
+   "Engagement Rate (%)": 30.07
+  },
+  {
+   "Post Label": "#39992 \u00b7 Image \u00b7 Product Launch \u00b7 22 Jun 2024",
+   "Likes": 11060,
+   "Reach": 44780,
+   "Engagement Rate (%)": 31.3
+  },
+  {
+   "Post Label": "#21290 \u00b7 Reel \u00b7 Festive Offer \u00b7 17 May 2024",
+   "Likes": 11052,
+   "Reach": 44505,
+   "Engagement Rate (%)": 32.98
+  },
+  {
+   "Post Label": "#22783 \u00b7 Reel \u00b7 Giveaway \u00b7 25 Feb 2025",
+   "Likes": 11049,
+   "Reach": 44343,
+   "Engagement Rate (%)": 30.48
+  },
+  {
+   "Post Label": "#9076 \u00b7 Video \u00b7 Product Launch \u00b7 18 Oct 2024",
+   "Likes": 11043,
+   "Reach": 44307,
+   "Engagement Rate (%)": 29.61
+  }
+ ],
+ "top_er": [
+  {
+   "Post Label": "#23785 \u00b7 Image \u00b7 Influencer Collab \u00b7 05 Apr 2025",
+   "Likes": 3152,
+   "Reach": 12710,
+   "Engagement Rate (%)": 34.1
+  },
+  {
+   "Post Label": "#44718 \u00b7 Reel \u00b7 Giveaway \u00b7 08 Oct 2024",
+   "Likes": 9510,
+   "Reach": 38468,
+   "Engagement Rate (%)": 34.01
+  },
+  {
+   "Post Label": "#4147 \u00b7 Story \u00b7 Giveaway \u00b7 21 May 2024",
+   "Likes": 3996,
+   "Reach": 16322,
+   "Engagement Rate (%)": 34.01
+  },
+  {
+   "Post Label": "#1785 \u00b7 Story \u00b7 Giveaway \u00b7 13 Mar 2025",
+   "Likes": 6961,
+   "Reach": 27896,
+   "Engagement Rate (%)": 33.98
+  },
+  {
+   "Post Label": "#48036 \u00b7 Video \u00b7 Product Launch \u00b7 20 Oct 2024",
+   "Likes": 1791,
+   "Reach": 7181,
+   "Engagement Rate (%)": 33.97
+  },
+  {
+   "Post Label": "#34385 \u00b7 Image \u00b7 Influencer Collab \u00b7 13 Nov 2024",
+   "Likes": 6324,
+   "Reach": 25469,
+   "Engagement Rate (%)": 33.88
+  },
+  {
+   "Post Label": "#23303 \u00b7 Reel \u00b7 Tutorial \u00b7 08 Feb 2025",
+   "Likes": 8932,
+   "Reach": 35746,
+   "Engagement Rate (%)": 33.88
+  },
+  {
+   "Post Label": "#8368 \u00b7 Video \u00b7 Festive Offer \u00b7 11 Jan 2025",
+   "Likes": 2564,
+   "Reach": 10304,
+   "Engagement Rate (%)": 33.87
+  },
+  {
+   "Post Label": "#34330 \u00b7 Video \u00b7 Tutorial \u00b7 08 Feb 2025",
+   "Likes": 5345,
+   "Reach": 21502,
+   "Engagement Rate (%)": 33.86
+  },
+  {
+   "Post Label": "#5465 \u00b7 Video \u00b7 Product Launch \u00b7 15 Nov 2024",
+   "Likes": 10844,
+   "Reach": 44299,
+   "Engagement Rate (%)": 33.82
+  }
+ ],
+ "top_likes_avg_reach": 45307.5,
+ "avg_reach": 19748.46576,
+ "top_er_median_reach": 23485.5,
+ "corr_reach_likes": 0.7913133663989643,
+ "corr_reach_er": 0.003534333436191524,
+ "records_per_day": 136.6120218579235
+}

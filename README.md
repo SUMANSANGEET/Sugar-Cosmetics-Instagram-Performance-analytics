@@ -117,7 +117,8 @@ Explore the interactive **SUGAR Cosmetics Instagram Performance Analytics** appl
 
 ### 2. 📈 Trends
 
-![Trends](screenshots/trends.png)
+![Trends_1](screenshots/trends_1.png)
+![Trends_2](screenshots/trends_2.png)
 
 *Explore performance patterns and changes across the available reporting periods.*
 
@@ -153,7 +154,13 @@ Explore the interactive **SUGAR Cosmetics Instagram Performance Analytics** appl
 
 ### 8. 🏆 Top Posts
 
-![Top Posts](screenshots/top-posts.png)
+![Top Posts_1](screenshots/top-posts_1.png)
+![Top Posts_2](screenshots/top-posts_2.png)
+![Top Posts_3](screenshots/top-posts_3.png)
+![Top Posts_4](screenshots/top-posts_4.png)
+![Top Posts_5](screenshots/top-posts_5.png)
+![Top Posts_6](screenshots/top-posts_6.png)
+![Top Posts_7](screenshots/top-posts_7.png)
 
 *Review leading posts using the performance measures available in the application.*
 

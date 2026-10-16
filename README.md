@@ -235,7 +235,8 @@ The following tools should be listed only where they were actually used in the i
 The repository can be organized as follows, adapted to the files included in the final upload.
 
 ```text
-sugar-cosmetics-instagram-analytics/
+
+Sugar-Cosmetics-Instagram-Performance-analytics/
 │
 ├── app.py
 ├── README.md
@@ -247,18 +248,29 @@ sugar-cosmetics-instagram-analytics/
 │   └── processed/
 │
 ├── notebooks/
+│   └── instagram_analysis.ipynb
 │
 ├── src/
+│   ├── data_processing.py
+│   ├── analytics.py
+│   └── visualizations.py
 │
 ├── screenshots/
-│   ├── overview.png
-│   ├── content-performance.png
-│   ├── engagement-trends.png
-│   └── business-insights.png
+│   ├── executive-summary.png
+│   ├── trends.png
+│   ├── content.png
+│   ├── timing.png
+│   ├── funnel-growth.png
+│   ├── hashtags.png
+│   ├── audience.png
+│   ├── top-posts.png
+│   ├── explorer.png
+│   └── strategy-ai.png
 │
 └── reports/
     ├── business-summary.pdf
     └── insights-report.pdf
+
 ```
 
 *This is a suggested structure. Keep only files and folders that exist in your repository; adjust names to match your implementation.*

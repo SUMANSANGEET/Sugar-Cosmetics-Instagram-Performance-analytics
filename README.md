@@ -103,33 +103,75 @@ The project is deployed using Streamlit.
 
 **[Open SUGAR Cosmetics Instagram Analytics](https://sugar-cosmetics-instagram-performance-analytics-jausdzg2vtd5fm.streamlit.app/)**
 
-### Dashboard Preview
+## 📊 Dashboard Preview
 
-Add screenshots of your actual deployed application to the repository to make the project visually accessible to recruiters.
+Explore the interactive **SUGAR Cosmetics Instagram Performance Analytics** application.
 
-#### 1. Executive Overview
+**[🚀 Launch the Live Dashboard](https://sugar-cosmetics-instagram-performance-analytics-jausdzg2vtd5fm.streamlit.app/)**
 
-![Executive Overview](screenshots/overview.png)
+### 1. 📊 Executive Summary
 
-*Summarize the principal KPIs and overall performance trends.*
+![Executive Summary](screenshots/executive-summary.png)
 
-#### 2. Content Performance
+*Review the principal performance indicators and overall Instagram analytics summary.*
 
-![Content Performance](screenshots/content-performance.png)
+### 2. 📈 Trends
 
-*Compare available post categories and highlight leading content.*
+![Trends](screenshots/trends.png)
 
-#### 3. Engagement Trends
+*Explore performance patterns and changes across the available reporting periods.*
 
-![Engagement Trends](screenshots/engagement-trends.png)
+### 3. 🎬 Content
 
-*Explore engagement patterns across the available time periods.*
+![Content Analytics](screenshots/content.png)
 
-#### 4. Business Insights
+*Analyze content performance across the available post formats and categories.*
 
-![Business Insights](screenshots/business-insights.png)
+### 4. 🕒 Timing
 
-*Communicate analytical observations, evidence, and recommended actions.*
+![Timing Analytics](screenshots/timing.png)
+
+*Explore publishing-time patterns and identify opportunities to optimize scheduling.*
+
+### 5. 🔻 Funnel & Growth
+
+![Funnel and Growth](screenshots/funnel-growth.png)
+
+*Examine available funnel metrics, engagement progression, and growth indicators.*
+
+### 6. #️⃣ Hashtags
+
+![Hashtag Analytics](screenshots/hashtags.png)
+
+*Evaluate hashtag performance and identify patterns associated with content engagement.*
+
+### 7. 👥 Audience
+
+![Audience Analytics](screenshots/audience.png)
+
+*Explore audience-related metrics and available segmentation insights.*
+
+### 8. 🏆 Top Posts
+
+![Top Posts](screenshots/top-posts.png)
+
+*Review leading posts using the performance measures available in the application.*
+
+### 9. 🧭 Explorer
+
+![Interactive Explorer](screenshots/explorer.png)
+
+*Explore the underlying data using the filters and interactive controls provided by the dashboard.*
+
+### 10. 🎯 Strategy & AI
+
+![Strategy and AI](screenshots/strategy-ai.png)
+
+*Explore the strategy and AI-assisted insights available in the application to support marketing analysis and decision-making.*
+
+---
+
+**Note:** Dashboard interpretations depend on the underlying dataset, implemented metrics, and available features. The screenshots should be captured from the actual deployed application.
 
 > Replace the example paths with the actual screenshot filenames committed to `screenshots/`. If a screenshot has not been created, remove its image reference until it is available.
 

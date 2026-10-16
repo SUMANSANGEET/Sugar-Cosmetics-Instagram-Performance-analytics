@@ -1,0 +1,77 @@
+Folder PATH listing
+Volume serial number is 00D5-BF39
+C:.
+|   .gitignore
+|   app.py
+|   build_deck.js
+|   build_docs.js
+|   build_notebook.py
+|   make_assets.py
+|   preprocess.py
+|   Project Title.docx
+|   project_structure.txt
+|   README.md
+|   requirements.txt
+|   sugar-costmetics.docx
+|   Sugar_Cosmetics_Business_Summary.pdf
+|   Sugar_Cosmetics_Instagram_Analysis_Report.html
+|   sugar_cosmetics_instagram_data - sugar_cosmetics_instagram_data.csv.csv
+|   sugar_cosmetics_instagram_data.xlsx
+|   Sugar_Cosmetics_Instagram_Performance_Analysis.ipynb.ipynb
+|   Sugar_Cosmetics_Instagram_Stakeholder_Deck.pptx
+|   Sugar_Cosmetics_Preprocessed_Data.xlsx
+|   Sugar_Cosmetics_Project_Flow_and_Insights.docx
+|   Sugar_Cosmetics_Streamlit_Dashboard_Guide.docx
+|   
++---.ipynb_checkpoints
+|       app-checkpoint.py
+|       Sugar_Cosmetics_Instagram_Performance_Analysis.ipynb-checkpoint.ipynb
+|       
++---.streamlit
+|       config.toml
+|       secrets.toml
+|       
++---data
+|       data_quality_report.csv
+|       sugar_cosmetics_clean.csv
+|       sugar_cosmetics_preprocessed.xlsx
+|       
++---deliverables
+|       Sugar_Cosmetics_Business_Summary.docx
+|       Sugar_Cosmetics_Instagram_Analysis.ipynb
+|       Sugar_Cosmetics_Instagram_Analysis_Report.html
+|       Sugar_Cosmetics_Instagram_Stakeholder_Deck.pptx
+|       Sugar_Cosmetics_Preprocessed_Data.xlsx
+|       Sugar_Cosmetics_Project_Flow_and_Insights.docx
+|       Sugar_Cosmetics_Streamlit_Dashboard_Guide.docx
+|       
++---docs
+|   |   facts.json
+|   |   
+|   +---charts
+|   |       campaign_er.png
+|   |       engagement_mix.png
+|   |       funnel.png
+|   |       hashtag_er.png
+|   |       monthly_posts.png
+|   |       post_type_er.png
+|   |       reach_vs_er.png
+|   |       top_er.png
+|   |       top_likes.png
+|   |       weekday_er.png
+|   |       
+|   \---screenshots
+|           tab01.png
+|           tab02.png
+|           tab03.png
+|           tab04.png
+|           tab05.png
+|           tab06.png
+|           tab07.png
+|           tab08.png
+|           tab09.png
+|           tab10.png
+|           
+\---notebook_outputs
+        sugar_instagram_preprocessed.csv
+        
